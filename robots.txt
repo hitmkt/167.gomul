@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://gomul.qustmddus.com/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
